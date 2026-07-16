@@ -1,0 +1,9 @@
+[project]
+name = "commercial-building-energy-prediction"
+version = "0.1.0"
+description = "Data science and machine learning project for predicting commercial building energy demand."
+requires-python = ">=3.12"
+readme = "README.md"
+
+[tool.setuptools]
+packages = ["src"]
